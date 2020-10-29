@@ -1,0 +1,28 @@
+{
+  "name": "encontrei-pay-sdk",
+  "version": "1.0.0",
+  "description": "An API client to use Encontrei Pay services",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairoffarias/encontrei-pay-sdk.git"
+  },
+  "keywords": [
+    "encontrei-pay",
+    "encontrei",
+    "sdk",
+    "gvv"
+  ],
+  "author": "Jonata Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jairoffarias/encontrei-pay-sdk/issues"
+  },
+  "homepage": "https://github.com/jairoffarias/encontrei-pay-sdk#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
