@@ -1,6 +1,6 @@
 {
-  "name": "encontrei-pay-sdk",
-  "version": "1.0.0",
+  "name": "encontreipay-sdk",
+  "version": "1.0.1",
   "description": "An API client to use Encontrei Pay services",
   "main": "index.ts",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jairoffarias/encontrei-pay-sdk.git"
+    "url": "git+https://github.com/jairoffarias/encontreipay-sdk.git"
   },
   "keywords": [
     "encontrei-pay",
@@ -19,9 +19,10 @@
   "author": "Jonata Oliveira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jairoffarias/encontrei-pay-sdk/issues"
+    "url": "https://github.com/jairoffarias/encontreipay-sdk/issues"
   },
-  "homepage": "https://github.com/jairoffarias/encontrei-pay-sdk#readme",
+  "homepage": "https://github.com/jairoffarias/encontreipay-sdk#readme",
+  "private": false,
   "dependencies": {
     "axios": "^0.20.0"
   }
